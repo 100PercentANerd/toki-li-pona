@@ -1,0 +1,18 @@
+{
+	"pack": {
+		"description": "toki pona li pona, musi Minecraft li ala pona tawa toki pona",
+		"pack_format": 25
+	},
+	"language": {
+		"en_sh": {
+			"name": "𐑦𐑙𐑜𐑤𐑦𐑖",
+			"region": "𐑧𐑝𐑮𐑰𐑢𐑺",
+			"bidirectional": false
+		},
+		"en_la": {
+			"name": "Linguistics Jokes lol",
+			"region": "My Head",
+			"bidirectional": false
+		}
+	}
+}
